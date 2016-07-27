@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[You are here - Italy]]></title>
         <description><![CDATA[You are here - Italy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/you-are-here-italy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 10:29:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jul 2016 16:16:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/you-are-here-italy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Holiday apartments in Rome]]></title>
             <description><![CDATA[<article><h1>Holiday apartments in Rome</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/692c7622-3d48-454f-a03e-f8ee91c39a59.jpg"></article>]]></description>
-            <link>undefinedholiday-apartments-in-rome/index.html</link>
+            <link>https://thegrid.ai/you-are-here-italy/holiday-apartments-in-rome/index.html</link>
             <guid isPermaLink="false">bd9f8703-b80c-4bc0-a56f-5a2fd9961157</guid>
-            <pubDate>Mon, 18 Jul 2016 10:29:50 GMT</pubDate>
+            <pubDate>Wed, 27 Jul 2016 16:16:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
