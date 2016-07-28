@@ -1,4 +1,3 @@
-layout_spectrum: 0.06628534593619406
 typography_spectrum: 0.17591764125972986
 color:
   brandStrength: 0.555112297879532
@@ -11,8 +10,10 @@ color:
     - '#EDF7F2'
     - '#4BB5C1'
     - '#7FC6BC'
+layout_spectrum: 0.06628534593619406
 name: You are here - Italy
 navigation:
   - name: Holiday apartments in Rome
     id: bd9f8703-b80c-4bc0-a56f-5a2fd9961157
     type: content
+title: it's all about you
