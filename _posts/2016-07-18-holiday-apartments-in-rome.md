@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-07-27T16:16:42.750Z'
+datePublished: '2016-07-28T17:54:36.242Z'
 sourcePath: _posts/2016-07-18-holiday-apartments-in-rome.md
 author: []
-dateModified: '2016-07-18T10:38:39.360Z'
+dateModified: '2016-07-28T17:54:35.517Z'
 title: Holiday apartments in Rome
 description: ''
-starred: false
-inFeed: true
+publisher: {}
+via: {}
 hasPage: true
-inNav: false
+starred: false
 url: holiday-apartments-in-rome/index.html
 _context: 'http://schema.org'
 _type: Article
