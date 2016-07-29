@@ -16,5 +16,8 @@ navigation:
   - name: Holiday apartments in Rome
     id: bd9f8703-b80c-4bc0-a56f-5a2fd9961157
     type: content
+  - name: Food
+    id: 512d736e-2b6f-4653-a1b2-8be213cc668c
+    type: content
 title: ''
 description: it's all about you
