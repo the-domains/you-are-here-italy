@@ -19,5 +19,8 @@ navigation:
   - name: Food
     id: 512d736e-2b6f-4653-a1b2-8be213cc668c
     type: content
+  - name: Cadorna apartment
+    id: daea8c3a-8522-4082-ba1b-20b44c44960b
+    type: content
 title: ''
 description: it's all about you
