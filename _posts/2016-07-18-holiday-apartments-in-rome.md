@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-29T15:57:53.742Z'
+datePublished: '2016-07-29T16:04:56.336Z'
 sourcePath: _posts/2016-07-18-holiday-apartments-in-rome.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-07-29T15:57:52.838Z'
+dateModified: '2016-07-29T16:04:55.003Z'
 title: Holiday apartments in Rome
 publisher: {}
 description: Colosseo apartment - up to 6 guests
@@ -19,3 +19,4 @@ _type: Article
 
 Rent your apartment in Rome
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/773f92e5-adcf-4d84-a177-efb4cd4507a5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5b0b34e-2c6c-4d9f-acd4-9389c7850800.jpg)
