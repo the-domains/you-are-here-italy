@@ -1,16 +1,16 @@
-typography_spectrum: 0.17591764125972986
+typography_spectrum: 0.5086598340421915
 color:
-  brandStrength: 0.555112297879532
-  lightness: 0.4921569072175771
-  saturation: 0.4679911588318646
-  rhythmicContrast: 0.9421064418274909
+  brandStrength: 0.016871262807399035
+  lightness: 0.14308636169880629
+  saturation: 0.7670661902520806
+  rhythmicContrast: 0.11901046428829432
   brandColors:
-    - '#96CA2D'
-    - '#B5E655'
-    - '#EDF7F2'
-    - '#4BB5C1'
-    - '#7FC6BC'
-layout_spectrum: 0.06628534593619406
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
+layout_spectrum: 0.09493661997839808
 name: You are here - Italy
 navigation:
   - name: Holiday apartments in Rome
